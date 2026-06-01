@@ -1,0 +1,8 @@
+{
+  "name": " Breakfast Voucher Generator",
+  "description": "คูปองอาหารเช้า House and Home residence",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
